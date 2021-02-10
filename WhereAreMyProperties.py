@@ -23,7 +23,7 @@ else:
     propertyList = []
     print("Your properties can be found here in the iFlow:")
     print("-----------------------")
-    print("Property | Content Modifier | Process")
+    print("Property | Content Modifier | Local Integration Process")
     print("-----------------------")
     for node in iFlowObj.iter():
         if(node.tag.endswith("process")):
