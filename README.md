@@ -1,4 +1,4 @@
-# WhereAreMyProperties
+# What is this?
 This is a small helper tool to quickly get an overview over all Exchange Properties for an iFlow for SAP CPI (Cloud Platform Integration).
 
 # Example output
