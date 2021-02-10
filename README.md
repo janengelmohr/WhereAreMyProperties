@@ -25,3 +25,6 @@ This is good enough for now though I guess. Feel free to send me PRs though :-)
 
 # License
 Apache. Use for whatever you want (commercial, non-commercial, ...) ;-)
+
+# Special Thanks
+Thank you to ITARICON GmbH, Dresden and their Integration Team for the useful feedback!
