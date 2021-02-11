@@ -1,5 +1,8 @@
 # What is this?
-This is a small helper tool to quickly get an overview over all Exchange Properties for an iFlow for SAP CPI (Cloud Platform Integration).
+Are you also tired of searching for usages of Exchange Properties in large SAP CPI (Cloud Platform Integration) iFlows?
+Then this tool is for you :-)
+
+This tool will quickly give you an overview over all Exchange Properties and their occurences in an iFlow.
 
 # Example output
 
@@ -21,7 +24,7 @@ The output will look like in the screenshot. The first column is the name of the
 Technically speaking the script does not only extract Properties but also headers, etc. 
 Also the code is quite messy, sorry for that. This is just a quick hack because I was exhausted of finding the Property usages manually in iFlows.
 
-This is good enough for now though I guess. Feel free to send me PRs though :-)
+Feel free to send me PRs or open Issues :-)
 
 # License
 Apache. Use for whatever you want (commercial, non-commercial, ...) ;-)
