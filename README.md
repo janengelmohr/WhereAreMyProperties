@@ -21,7 +21,8 @@ The output will look like in the screenshot. The first column is the name of the
 
 
 # Known issues
-Technically speaking the script does not only extract Properties but also headers, etc. 
+The script will only find Exchange Properties which are altered in Content Modifiers. It will not check Groovyscripts/Javascripts for Exchange Properties yet.
+
 Also the code is quite messy, sorry for that. This is just a quick hack because I was exhausted of finding the Property usages manually in iFlows.
 
 Feel free to send me PRs or open Issues :-)
